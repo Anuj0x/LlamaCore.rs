@@ -1,8 +1,6 @@
 # llama2.rs
 
-<p align="center">
-  <img src="assets/llama_cute.jpg" width="300" height="300" alt="Cute Llama">
-</p>
+
 
 **A high-performance, memory-safe Rust implementation of Llama 2 inference with advanced AI capabilities.**
 
